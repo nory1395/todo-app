@@ -2,7 +2,7 @@
 
 I'm a motivated frontend developer with a passion for creating interactive and user-friendly web applications.
 
-🌱 I’m currently learning **JavaScript** and **React** to enhance my frontend skills.
+🌱 I’m currently learning **JavaScript** and **React** to improve my frontend skills.
 
 ---
 
@@ -18,7 +18,7 @@ This is a simple **To-Do List** application that allows users to:
 It's a great way to manage your daily tasks in an organized manner.
 
 ### Features:
-- **Add** tasks with text and due date.
+- **Add** tasks with text.
 - **Edit** tasks and update them easily.
 - **Delete** tasks when completed.
 - **Mark as completed** to keep track of finished tasks.
@@ -27,7 +27,7 @@ It's a great way to manage your daily tasks in an organized manner.
 
 ## 🌐 Live Demo
 
-Check out the live demo of the To-Do List application on [GitHub Pages](https://nory1395.github.io/todo-app/).
+Check out the live demo of the To-Do List application on [To-DoList GitHub Pages](https://nory1395.github.io/todo-app/).
 
 ---
 
