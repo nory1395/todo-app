@@ -1,27 +1,59 @@
+# Hi 👋, I'm Nory
 
-<h1 align="center">Hi 👋, I'm Nory</h1>
-<h3 align="center">A motivated frontend developer</h3>
+I'm a motivated frontend developer with a passion for creating interactive and user-friendly web applications.
 
-- 🌱 I’m currently learning **Javascript and React**
+🌱 I’m currently learning **JavaScript** and **React** to enhance my frontend skills.
 
-- This is a simple **To-Do List application** - The app allows users to create, edit, delete, and mark tasks as completed. This is a great way to manage your daily tasks in an organized manner.
+---
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Java, Springboot**
+## 📋 To-Do List App
 
-- 📫 How to reach me **norypaolacastillo@gmail.com**
+This is a simple **To-Do List** application that allows users to:
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nory-castillo-romero-0b2103119](https://www.linkedin.com/in/nory-castillo-romero-0b2103119)
+- Create new tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
 
-- ⚡ Fun fact **People confuse my name with a sushi name**
+It's a great way to manage your daily tasks in an organized manner.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nory-castillo-romero-0b2103119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nory-castillo-romero-0b2103119" height="30" width="40" /></a>
-</p>
+### Features:
+- **Add** tasks with text and due date.
+- **Edit** tasks and update them easily.
+- **Delete** tasks when completed.
+- **Mark as completed** to keep track of finished tasks.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+## 🌐 Live Demo
 
-![Download Video To-Do List](Video-TodoList.mp4)
+Check out the live demo of the To-Do List application on [GitHub Pages](https://nory1395.github.io/todo-app/).
+
+---
+
+## 🛠 Technologies & Tools
+
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [norypaolacastillo@gmail.com](mailto:norypaolacastillo@gmail.com)
+- **LinkedIn:** [Nory Castillo LinkedIn](https://www.linkedin.com/in/nory-castillo-romero-0b2103119)
+
+---
+
+## ⚡ Fun Fact
+
+People confuse my name with a sushi name 🍣. Also, I love learning new technologies and building projects to improve my skills!
+
+---
+
+Feel free to reach out if you want to discuss frontend development, projects, or anything related to tech! 😊
 
