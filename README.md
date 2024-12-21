@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nory</h1>
 <h3 align="center">A motivated frontend developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Javascript, React**
 
 - This is a simple **To-Do List application** - The app allows users to create, edit, delete, and mark tasks as completed. This is a great way to manage your daily tasks in an organized manner.
 
